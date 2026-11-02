@@ -1,0 +1,84 @@
+{
+  "source_file": "sample2_credit_ambiguous_date.pdf",
+  "fields": {
+    "project_name": {
+      "value": "Maple Street Townhomes",
+      "confidence": 1.0,
+      "evidence": "Job: Maple Street Townhomes",
+      "issues": []
+    },
+    "change_order_number": {
+      "value": "CO # 7",
+      "confidence": 1.0,
+      "evidence": "CO # 7",
+      "issues": []
+    },
+    "date": {
+      "value": "2026-04-03",
+      "confidence": 0.6,
+      "evidence": "Date: 04/03/2026",
+      "issues": [
+        "ambiguous day/month order; assumed MM/DD/YYYY"
+      ]
+    },
+    "contractor": {
+      "value": "Brightline Construction",
+      "confidence": 1.0,
+      "evidence": "Contractor: Brightline Construction",
+      "issues": []
+    },
+    "owner": {
+      "value": "Maple Dev Group",
+      "confidence": 1.0,
+      "evidence": "Owner: Maple Dev Group",
+      "issues": []
+    },
+    "description_of_change": {
+      "value": "Owner deleted the rooftop deck from scope.",
+      "confidence": 1.0,
+      "evidence": "Reason: Owner deleted the rooftop deck from scope.",
+      "issues": []
+    },
+    "original_contract_sum": {
+      "value": 840000.0,
+      "confidence": 1.0,
+      "evidence": "Original contract: $840,000",
+      "issues": []
+    },
+    "previous_changes_total": {
+      "value": null,
+      "confidence": 0.8,
+      "evidence": null,
+      "issues": []
+    },
+    "change_amount": {
+      "value": -32400.0,
+      "confidence": 1.0,
+      "evidence": "Credit for deleted work: ($32,400.00)",
+      "issues": []
+    },
+    "new_contract_sum": {
+      "value": 807600.0,
+      "confidence": 1.0,
+      "evidence": "Revised contract total: $807,600",
+      "issues": []
+    },
+    "schedule_change_days": {
+      "value": -3,
+      "confidence": 1.0,
+      "evidence": "Schedule: decrease of 3 days",
+      "issues": []
+    },
+    "signed": {
+      "value": false,
+      "confidence": 1.0,
+      "evidence": "Signature: ____________ (unsigned)",
+      "issues": []
+    }
+  },
+  "line_items": [],
+  "document_issues": [],
+  "needs_review": [
+    "date"
+  ]
+}

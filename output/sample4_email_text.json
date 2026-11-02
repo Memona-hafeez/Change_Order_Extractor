@@ -1,0 +1,80 @@
+{
+  "source_file": "sample4_email_text.txt",
+  "fields": {
+    "project_name": {
+      "value": "Lakeside School Gym Renovation",
+      "confidence": 1.0,
+      "evidence": "Lakeside School Gym Renovation",
+      "issues": []
+    },
+    "change_order_number": {
+      "value": "CO 21",
+      "confidence": 1.0,
+      "evidence": "CO 21",
+      "issues": []
+    },
+    "date": {
+      "value": "2026-06-05",
+      "confidence": 1.0,
+      "evidence": "June 5 2026",
+      "issues": []
+    },
+    "contractor": {
+      "value": "Tri-County Builders",
+      "confidence": 1.0,
+      "evidence": "Tri-County Builders",
+      "issues": []
+    },
+    "owner": {
+      "value": "Lakeside School District",
+      "confidence": 1.0,
+      "evidence": "Lakeside School District",
+      "issues": []
+    },
+    "description_of_change": {
+      "value": "adding a secondary scoreboard wiring run",
+      "confidence": 1.0,
+      "evidence": "adding a secondary scoreboard wiring run",
+      "issues": []
+    },
+    "original_contract_sum": {
+      "value": 615000.0,
+      "confidence": 1.0,
+      "evidence": "Contract was 615,000",
+      "issues": []
+    },
+    "previous_changes_total": {
+      "value": null,
+      "confidence": 0.8,
+      "evidence": null,
+      "issues": []
+    },
+    "change_amount": {
+      "value": 4300.0,
+      "confidence": 1.0,
+      "evidence": "$4,300",
+      "issues": []
+    },
+    "new_contract_sum": {
+      "value": 619300.0,
+      "confidence": 1.0,
+      "evidence": "now becomes 619,300",
+      "issues": []
+    },
+    "schedule_change_days": {
+      "value": 0,
+      "confidence": 1.0,
+      "evidence": "No time impact",
+      "issues": []
+    },
+    "signed": {
+      "value": false,
+      "confidence": 1.0,
+      "evidence": "Not yet signed by the district",
+      "issues": []
+    }
+  },
+  "line_items": [],
+  "document_issues": [],
+  "needs_review": []
+}

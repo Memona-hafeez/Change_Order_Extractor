@@ -1,0 +1,84 @@
+{
+  "source_file": "sample3_messy_ocr.pdf",
+  "fields": {
+    "project_name": {
+      "value": "Harbor View Warehouse",
+      "confidence": 1.0,
+      "evidence": "Proj: Harbor View Warehouse",
+      "issues": []
+    },
+    "change_order_number": {
+      "value": "CO-012",
+      "confidence": 1.0,
+      "evidence": "CHANGE 0RDER  No: CO-012",
+      "issues": []
+    },
+    "date": {
+      "value": "2026-01-22",
+      "confidence": 1.0,
+      "evidence": "Dated 2026-01-22",
+      "issues": []
+    },
+    "contractor": {
+      "value": "Steelman Contractors LLC",
+      "confidence": 1.0,
+      "evidence": "GC : Steelman Contractors LLC",
+      "issues": []
+    },
+    "owner": {
+      "value": "Harbor Logistics Co",
+      "confidence": 1.0,
+      "evidence": "Owner : Harbor Logistics Co",
+      "issues": []
+    },
+    "description_of_change": {
+      "value": "Install additional fire suppression sprinkler heads in Zone B per fire marshal request.",
+      "confidence": 1.0,
+      "evidence": "Scope: Install additional fire suppression sprinkler heads in Zone B per fire marshal request.",
+      "issues": []
+    },
+    "original_contract_sum": {
+      "value": null,
+      "confidence": 0.3,
+      "evidence": "Prev. contract sum $2,100,000.00",
+      "issues": [
+        "could not parse amount"
+      ]
+    },
+    "previous_changes_total": {
+      "value": 45000.0,
+      "confidence": 1.0,
+      "evidence": "Prior approved COs $45,000.00",
+      "issues": []
+    },
+    "change_amount": {
+      "value": 18750.0,
+      "confidence": 1.0,
+      "evidence": "THIS CO $18,750.00",
+      "issues": []
+    },
+    "new_contract_sum": {
+      "value": 2163750.0,
+      "confidence": 1.0,
+      "evidence": "Adjusted contract sum $2,163,750.00",
+      "issues": []
+    },
+    "schedule_change_days": {
+      "value": 10,
+      "confidence": 1.0,
+      "evidence": "Time extension: 10 calendar days",
+      "issues": []
+    },
+    "signed": {
+      "value": true,
+      "confidence": 1.0,
+      "evidence": "Approved: Maria Lopez, Steelman (signed)",
+      "issues": []
+    }
+  },
+  "line_items": [],
+  "document_issues": [],
+  "needs_review": [
+    "original_contract_sum"
+  ]
+}

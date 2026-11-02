@@ -1,0 +1,93 @@
+{
+  "source_file": "sample1_clean.pdf",
+  "fields": {
+    "project_name": {
+      "value": "Riverside Medical Center - Phase 2",
+      "confidence": 1.0,
+      "evidence": "Project: Riverside Medical Center - Phase 2",
+      "issues": []
+    },
+    "change_order_number": {
+      "value": "003",
+      "confidence": 1.0,
+      "evidence": "CHANGE ORDER  NO. 003",
+      "issues": []
+    },
+    "date": {
+      "value": "2026-03-14",
+      "confidence": 1.0,
+      "evidence": "Date: March 14, 2026",
+      "issues": []
+    },
+    "contractor": {
+      "value": "Apex Builders Inc.",
+      "confidence": 1.0,
+      "evidence": "Contractor: Apex Builders Inc.",
+      "issues": []
+    },
+    "owner": {
+      "value": "Riverside Health Partners LLC",
+      "confidence": 1.0,
+      "evidence": "Owner: Riverside Health Partners LLC",
+      "issues": []
+    },
+    "description_of_change": {
+      "value": "Add two additional electrical outlets in each patient room on Level 3.",
+      "confidence": 1.0,
+      "evidence": "Description of Change:\n       Add two additional electrical outlets in each patient room on Level 3.",
+      "issues": []
+    },
+    "original_contract_sum": {
+      "value": 1250000.0,
+      "confidence": 1.0,
+      "evidence": "Original Contract Sum: $1,250,000.00",
+      "issues": []
+    },
+    "previous_changes_total": {
+      "value": 0.0,
+      "confidence": 1.0,
+      "evidence": "Net change by previous Change Orders: $0.00",
+      "issues": []
+    },
+    "change_amount": {
+      "value": 12500.0,
+      "confidence": 1.0,
+      "evidence": "This Change Order: $12,500.00",
+      "issues": []
+    },
+    "new_contract_sum": {
+      "value": 1262500.0,
+      "confidence": 1.0,
+      "evidence": "New Contract Sum: $1,262,500.00",
+      "issues": []
+    },
+    "schedule_change_days": {
+      "value": 5,
+      "confidence": 1.0,
+      "evidence": "Contract time change: 5 days",
+      "issues": []
+    },
+    "signed": {
+      "value": true,
+      "confidence": 1.0,
+      "evidence": "Approved by: John Smith, Owner Rep. Signed: /s/ John Smith",
+      "issues": []
+    }
+  },
+  "line_items": [
+    {
+      "description": "Outlets",
+      "quantity": 40.0,
+      "unit_price": 125.0,
+      "total": 5000.0
+    },
+    {
+      "description": "Wiring labor",
+      "quantity": 100.0,
+      "unit_price": 75.0,
+      "total": 7500.0
+    }
+  ],
+  "document_issues": [],
+  "needs_review": []
+}

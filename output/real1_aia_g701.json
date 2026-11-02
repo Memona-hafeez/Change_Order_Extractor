@@ -1,0 +1,80 @@
+{
+  "source_file": "real1_aia_g701.pdf",
+  "fields": {
+    "project_name": {
+      "value": "Westgate Medical Office Building",
+      "confidence": 1.0,
+      "evidence": "Westgate Medical Office Building",
+      "issues": []
+    },
+    "change_order_number": {
+      "value": "004",
+      "confidence": 1.0,
+      "evidence": "CHANGE ORDER NUMBER: 004",
+      "issues": []
+    },
+    "date": {
+      "value": "2026-10-12",
+      "confidence": 1.0,
+      "evidence": "DATE:          2026-OCT-12",
+      "issues": []
+    },
+    "contractor": {
+      "value": "Ironwood Construction Company",
+      "confidence": 1.0,
+      "evidence": "Ironwood Construction Company",
+      "issues": []
+    },
+    "owner": {
+      "value": "Westgate Health Partners LLC",
+      "confidence": 1.0,
+      "evidence": "Westgate Health Partners LLC",
+      "issues": []
+    },
+    "description_of_change": {
+      "value": "Add emergency generator pad and conduit, Level 1 east yard; Revise lobby flooring from VCT to porcelain tile; Credit: delete exterior monument signage (owner-furnished)",
+      "confidence": 1.0,
+      "evidence": "PCO-014 Add emergency generator pad and conduit, Level 1 east yard 18,450.00\n      PCO-015 Revise lobby flooring from VCT to porcelain tile            6,200.00\n      PCO-016 Credit: delete exterior monument signage (owner-furnished) (3,150.00)",
+      "issues": []
+    },
+    "original_contract_sum": {
+      "value": 1850000.0,
+      "confidence": 1.0,
+      "evidence": "The original Contract Sum was                           $         1,850,000.00",
+      "issues": []
+    },
+    "previous_changes_total": {
+      "value": 64300.0,
+      "confidence": 1.0,
+      "evidence": "The net change by previously authorized Change Orders   $          64,300.00",
+      "issues": []
+    },
+    "change_amount": {
+      "value": 21500.0,
+      "confidence": 1.0,
+      "evidence": "The Contract Sum will be increased by this Change Order in the amount of $ 21,500.00",
+      "issues": []
+    },
+    "new_contract_sum": {
+      "value": 1935800.0,
+      "confidence": 1.0,
+      "evidence": "The new Contract Sum including this Change Order will be $        1,935,800.00",
+      "issues": []
+    },
+    "schedule_change_days": {
+      "value": 9,
+      "confidence": 1.0,
+      "evidence": "The Contract Time will be increased by                               9 days",
+      "issues": []
+    },
+    "signed": {
+      "value": true,
+      "confidence": 1.0,
+      "evidence": "Printed name: Anita Patel Printed name: Marcus Webb Printed name: Dr. Helen Ortiz",
+      "issues": []
+    }
+  },
+  "line_items": [],
+  "document_issues": [],
+  "needs_review": []
+}
