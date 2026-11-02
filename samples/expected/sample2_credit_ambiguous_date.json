@@ -1,0 +1,13 @@
+{
+  "project_name": "Maple Street Townhomes",
+  "change_order_number": "7",
+  "date": "2026-04-03",
+  "contractor": "Brightline Construction",
+  "owner": "Maple Dev Group",
+  "original_contract_sum": 840000,
+  "previous_changes_total": null,
+  "change_amount": -32400,
+  "new_contract_sum": 807600,
+  "schedule_change_days": -3,
+  "signed": false
+}

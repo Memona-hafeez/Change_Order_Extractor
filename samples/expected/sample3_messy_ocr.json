@@ -1,0 +1,13 @@
+{
+  "project_name": "Harbor View Warehouse",
+  "change_order_number": "12",
+  "date": "2026-01-22",
+  "contractor": "Steelman Contractors LLC",
+  "owner": "Harbor Logistics Co",
+  "original_contract_sum": 2100000,
+  "previous_changes_total": 45000,
+  "change_amount": 18750,
+  "new_contract_sum": 2163750,
+  "schedule_change_days": 10,
+  "signed": true
+}

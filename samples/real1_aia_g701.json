@@ -1,0 +1,13 @@
+{
+  "project_name": "Westgate Medical Office Building",
+  "change_order_number": "4",
+  "date": "2026-10-12",
+  "contractor": "Ironwood Construction Company",
+  "owner": "Westgate Health Partners LLC",
+  "original_contract_sum": 1850000,
+  "previous_changes_total": 64300,
+  "change_amount": 21500,
+  "new_contract_sum": 1935800,
+  "schedule_change_days": 9,
+  "signed": true
+}
